@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Arijit",
+      "email": "arijit@123",
+      "gender": "male"
+    },
+    {
+      "id": "3",
+      "name": "Geetika",
+      "email": "geetika@123",
+      "gender": "female"
+    },
+    {
+      "name": "S@123",
+      "id": "dBPglr7"
+    },
+    {
+      "name": "sanya@1234",
+      "id": "5jQ9d4l"
+    },
+    {
+      "name": "dsa",
+      "email": "dsa",
+      "id": "u~x4Tu4"
+    },
+    {
+      "name": "Sonia",
+      "email": "sonia@123",
+      "id": "7VytfX9"
+    },
+    {
+      "name": "Sonia",
+      "email": "1234",
+      "id": "PeL00PC"
+    }
+  ]
+}

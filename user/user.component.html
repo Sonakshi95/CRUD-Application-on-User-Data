@@ -1,0 +1,18 @@
+<a routerLink='/crud'> +Add User </a>
+<h1>
+  USERS
+</h1>
+<table>
+  <th>id </th>
+  <th>name </th>
+  <th>email </th>
+  <th>gender </th>
+  <th></th>
+  <tr *ngFor="let user of users">
+    <td>{{user.uid}}</td>
+    <td>{{user.name}}</td>
+    <td>{{user.email}}</td>
+    <td>{{user.gender}}</td> 
+    <td (click)="deleteUser(user.uid)"><a>DELETE</a></td>
+  </tr>
+</table>
